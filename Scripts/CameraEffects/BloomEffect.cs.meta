@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1a526cf9735744d45baa3a267c82432c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - lensFlareVignetteMask: {instanceID: 0}
+  - lensFlareShader: {fileID: 4800000, guid: 10650470d1963304186467bcd5402e49, type: 3}
+  - screenBlendShader: {fileID: 4800000, guid: a23c6351f93ffcb438cc605ebb5c2318, type: 3}
+  - blurAndFlaresShader: {fileID: 4800000, guid: 5733be8d21dfe124f8aa95f248c0aa23,
+      type: 3}
+  - brightPassFilterShader: {fileID: 4800000, guid: bc3db65ca1985f5459ac35fa3398f0ff,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
